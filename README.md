@@ -1,4 +1,4 @@
-masters_thesis
-==============
+Wolfe's MIT M.Eng (Masters) Thesis
+==================================
 
-MIT M.Eng Thesis
+### PIM Analysis and Development: Improving Information Visibility In A Micro-Note Taking Tool
